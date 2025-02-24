@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A python package for NLP app
+Home-page: https://github.com/Ajinkya-19/Text_summarizer
+Author: Ajinkya-19
+Author-email: cajinkya246@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ajinkya-19/Text_summarizer/issues
+License-File: LICENSE
+
+# Text_summarizer
